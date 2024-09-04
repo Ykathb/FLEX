@@ -1,0 +1,36 @@
+/* * asterisco modifica tudo mais ainda que o body */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+header{
+    height: 150px;    
+    background-color: bisque;
+}
+nav{
+    height: 80px;
+    background-color: blue;
+}
+main{
+    background-color: antiquewhite;
+    display: flex;
+}
+section{
+    background-color: aquamarine;
+    width: 60%;
+    height: 400px;
+}
+aside{
+    background-color: darkcyan;
+    width: 40%;
+    height: 400px;
+}
+footer{
+    height: 200px;
+    background-color: brown;
+}
